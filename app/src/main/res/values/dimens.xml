@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="dp_extremely_low">4dp</dimen>
+    <dimen name="dp_very_low">8dp</dimen>
+    <dimen name="dp_low">12dp</dimen>
+    <dimen name="dp_normal">16dp</dimen>
+    <dimen name="dp_big">20dp</dimen>
+    <dimen name="dp_very_big">24dp</dimen>
+    <dimen name="dp_extremely_big">28dp</dimen>
+
+
+    <dimen name="sp_extremely_low">4sp</dimen>
+    <dimen name="sp_very_low">8sp</dimen>
+    <dimen name="sp_low">12sp</dimen>
+    <dimen name="sp_normal">16sp</dimen>
+    <dimen name="sp_big">20sp</dimen>
+    <dimen name="sp_very_big">24sp</dimen>
+    <dimen name="sp_extremely_big">28sp</dimen>
+</resources>

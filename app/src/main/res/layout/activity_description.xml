@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/sp_normal">
+
+    <ImageView
+        android:id="@+id/PhotoImageView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/imageview_content_description"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/TitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_low"
+        android:text="@string/activity_description_title_default_text"
+        android:textSize="@dimen/sp_very_big"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/PhotoImageView" />
+
+    <TextView
+        android:id="@+id/RecommendTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_normal"
+        android:text="@string/activity_description_recommend_default_text"
+        android:textSize="@dimen/sp_normal"
+        app:layout_constraintTop_toBottomOf="@id/TitleTextView" />
+
+    <TextView
+        android:id="@+id/DateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dp_normal"
+        android:layout_marginLeft="@dimen/dp_normal"
+        android:layout_marginTop="@dimen/dp_normal"
+        android:text="@string/activity_description_date_default_text"
+        android:textSize="@dimen/sp_normal"
+        app:layout_constraintLeft_toRightOf="@id/RecommendTextView"
+        app:layout_constraintTop_toBottomOf="@id/TitleTextView" />
+
+    <TextView
+        android:id="@+id/OverviewTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_normal"
+        android:text="@string/activity_description_overview_default_text"
+        android:textSize="@dimen/sp_normal"
+        app:layout_constraintTop_toBottomOf="@id/RecommendTextView" />
+
+</android.support.constraint.ConstraintLayout>

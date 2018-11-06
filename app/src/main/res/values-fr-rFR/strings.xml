@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Réglage</string>
+    <string name="movie_row_title_default_text">Nom du film</string>
+    <string name="imageview_content_description">Image du film</string>
+    <string name="activity_description_title_default_text">Titre</string>
+    <string name="activity_description_recommend_default_text">Recommandé à %1$d %%</string>
+    <string name="activity_description_date_default_text">Date</string>
+    <string name="activity_description_overview_default_text">Résumé</string>
+    <string name="activity_description_app_title">Description</string>
+</resources>
