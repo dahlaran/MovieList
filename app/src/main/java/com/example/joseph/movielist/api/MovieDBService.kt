@@ -1,6 +1,5 @@
 package com.example.joseph.movielist.api
 
-import com.example.joseph.movielist.movie.Movie
 import com.example.joseph.movielist.movie.MovieDescription
 import com.example.joseph.movielist.movie.MoviesResponse
 import io.reactivex.Observable

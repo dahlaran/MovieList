@@ -7,7 +7,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 
 
-class MainModel(val presenter: MainPresenterInterface?) : MainModelInterface {
+class MainModel(private val presenter: MainPresenterInterface?) : MainModelInterface {
 
     private val movieService by lazy {
         MovieDBService.create()

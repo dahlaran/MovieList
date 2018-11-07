@@ -12,7 +12,7 @@ import com.example.joseph.movielist.view.OnClickListener
 import com.squareup.picasso.Picasso
 
 // Adapter of the RecyclerView in the MainActivity
-class MovieAdapter(var listener: OnClickListener) :
+class MovieAdapter(private var listener: OnClickListener) :
     RecyclerView.Adapter<MovieAdapter.ViewHolder>() {
     // List of movies
     val movies: ArrayList<Movie> = ArrayList()

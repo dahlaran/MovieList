@@ -92,7 +92,7 @@ class MainActivity : AppCompatActivity(), MainViewInterface, OnClickListener {
         whatToDoWhenErrorOccur(error)
     }
 
-    fun onMovieResult(movies: ArrayList<Movie>) {
+    private fun onMovieResult(movies: ArrayList<Movie>) {
         //sort the list to have latest movie on the top
         val sortedList = movies.sortedByDescending { it.release_date }
 
