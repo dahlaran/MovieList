@@ -21,4 +21,9 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getTargetContext()
         assertEquals("com.example.joseph.movielist", appContext.packageName)
     }
+    @Test
+    fun uselessTest() {
+        // Useless test
+        assertEquals(1,1)
+    }
 }
