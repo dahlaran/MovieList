@@ -26,4 +26,10 @@ class ExampleInstrumentedTest {
         // Useless test
         assertEquals(1,1)
     }
+
+    @Test
+    fun otherUselessTest() {
+        // Useless test
+        assertEquals(true,true)
+    }
 }
