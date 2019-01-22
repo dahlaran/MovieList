@@ -28,6 +28,9 @@ android {
         it.buildConfigField 'String', 'MOVIE_DB_API_TOKEN', MovieDBApiToken
         it.buildConfigField 'String', 'IMAGE_PATH', ImagePath
     }
+    lintOptions {
+        abortOnError false
+    }
 }
 
 dependencies {
