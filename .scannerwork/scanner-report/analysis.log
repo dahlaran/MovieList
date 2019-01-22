@@ -1,0 +1,162 @@
+Environment variables:
+  - =::=::\
+  - =C:=C:\Windows\System32
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANDROID_HOME=D:\logiciel\sdk
+  - APPDATA=C:\Users\Joseph\AppData\Roaming
+  - COMPUTERNAME=DESKTOP-M084GMJ
+  - CYGWIN=mintty
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+  - FPS_BROWSER_USER_PROFILE_STRING=Default
+  - FSHARPINSTALLDIR=C:\Program Files (x86)\Microsoft SDKs\F#\10.1\Framework\v4.0\
+  - GPU_FORCE_64BIT_PTR=0
+  - GPU_MAX_ALLOC_PERCENT=100
+  - GPU_MAX_HEAP_SIZE=100
+  - GPU_SINGLE_ALLOC_PERCENT=100
+  - GPU_USE_SYNC_OBJECTS=1
+  - GTK_BASEPATH=C:\Program Files (x86)\GtkSharp\2.12\
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Joseph
+  - JAVA_EXEC="C:\Program Files\Java\jdk1.8.0_144\bin\java.exe"
+  - JAVA_HOME=C:\Program Files\Java\jdk1.8.0_144
+  - KMP_DUPLICATE_LIB_OK=TRUE
+  - LOCALAPPDATA=C:\Users\Joseph\AppData\Local
+  - LOGONSERVER=\\DESKTOP-M084GMJ
+  - MOSQUITTO_DIR=D:\logiciel\mosquitto
+  - NUMBER_OF_PROCESSORS=8
+  - OPENSSL_CONF=C:\OpenSSL-Win64\bin\openssl.cfg
+  - OS=Windows_NT
+  - OculusBase=D:\Oculus\
+  - OneDrive=C:\Users\Joseph\OneDrive
+  - OneDriveConsumer=C:\Users\Joseph\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=5e03
+  - PROJECT_HOME=C:\WINDOWS\System32
+  - PROMPT=$P$G
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=D:\Oculus\Support\oculus-runtime;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\logiciel\Git\cmd;D:\logiciel\OpenSSH\bin;C:\Program Files (x86)\OpenVPN\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Joseph\AppData\Local\Microsoft\WindowsApps;C:\Users\Joseph\AppData\Roaming\npm;C:\Users\Joseph\AppData\Local\atom\bin;D:\logiciel\Git\bin;C:\adb;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\logiciel\nodeJs\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\logiciel\Putty\;D:\logiciel\AndroidStudio\gradle\gradle-4.6\bin;C:\Program Files (x86)\Java\jdk1.8.0_144\bin;D:\logiciel\sdk\tools;D:\logiciel\sdk\tools\bin;D:\logiciel\sdk\platform-tools;C:\Program Files\SourceGear\Common\DiffMerge\;D:\logiciel\Genymotion;C:\Users\Joseph\scoop\shims;C:\Users\Joseph\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Joseph\AppData\Local\atom\bin;C:\Users\Joseph\AppData\Local\Microsoft\WindowsApps;D:\logiciel\Git\bin;C:\Users\Joseph\AppData\Roaming\npm;C:\Users\Joseph\AppData\Local\Programs\Microsoft VS Code\bin;;D:\logiciel\Microsoft VS Code\bin
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_SCANNER_HOME=D:\logiciel\Jenkins\Sonar\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\Joseph\AppData\Local\Temp
+  - TMP=C:\Users\Joseph\AppData\Local\Temp
+  - TMPDIR=C:\Users\Public\Documents\Wondershare\CreatorTemp
+  - USERDOMAIN=DESKTOP-M084GMJ
+  - USERDOMAIN_ROAMINGPROFILE=DESKTOP-M084GMJ
+  - USERNAME=Joseph
+  - USERPROFILE=C:\Users\Joseph
+  - VBOX_MSI_INSTALL_PATH=D:\logiciel\Oracle\
+  - _JAVA_OPTIONS=-Xmx512M
+  - scriptdir=D:\logiciel\Jenkins\Sonar\bin
+  - use_embedded_jre=false
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\logiciel\Jenkins\Sonar\bin\..\lib\sonar-scanner-cli-3.3.0.1492.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed
+  - java.ext.dirs=C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\Program Files\Java\jdk1.8.0_144\jre
+  - java.io.tmpdir=C:\Users\Joseph\AppData\Local\Temp\
+  - java.library.path=C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Oculus\Support\oculus-runtime;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\logiciel\Git\cmd;D:\logiciel\OpenSSH\bin;C:\Program Files (x86)\OpenVPN\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Joseph\AppData\Local\Microsoft\WindowsApps;C:\Users\Joseph\AppData\Roaming\npm;C:\Users\Joseph\AppData\Local\atom\bin;D:\logiciel\Git\bin;C:\adb;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\logiciel\nodeJs\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\logiciel\Putty\;D:\logiciel\AndroidStudio\gradle\gradle-4.6\bin;C:\Program Files (x86)\Java\jdk1.8.0_144\bin;D:\logiciel\sdk\tools;D:\logiciel\sdk\tools\bin;D:\logiciel\sdk\platform-tools;C:\Program Files\SourceGear\Common\DiffMerge\;D:\logiciel\Genymotion;C:\Users\Joseph\scoop\shims;C:\Users\Joseph\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Joseph\AppData\Local\atom\bin;C:\Users\Joseph\AppData\Local\Microsoft\WindowsApps;D:\logiciel\Git\bin;C:\Users\Joseph\AppData\Roaming\npm;C:\Users\Joseph\AppData\Local\Programs\Microsoft VS Code\bin;;D:\logiciel\Microsoft VS Code\bin;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_144-b01
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_144
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.144-b01
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=C:\WINDOWS\System32
+  - scanner.home=D:\logiciel\Jenkins\Sonar\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes
+  - sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_144\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -Dsonar.host.url=http://localhost:9000 -Dsonar.projectName=movieList -Dsonar.projectVersion=105 -Dsonar.sourceEncoding=UTF-8 -Dsonar.projectKey=movieList -Dsonar.sources=C:/Users/Joseph/.jenkins/workspace/MyFirstProject -Dsonar.projectBaseDir=D:\logiciel\AndroidStudioProject\MovieList -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp850
+  - sun.stdout.encoding=cp850
+  - user.country=FR
+  - user.dir=C:\WINDOWS\System32
+  - user.home=C:\Users\Joseph
+  - user.language=fr
+  - user.name=Joseph
+  - user.script=
+  - user.timezone=Europe/Paris
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.10.0.2131 (python)
+  - SonarCSS 1.0.3.724 (cssfamily)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.0.1612 (go)
+  - SonarKotlin 1.4.0.155 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.0.0.6962 (javascript)
+  - SonarRuby 1.4.0.155 (ruby)
+  - SonarScala 1.4.0.155 (sonarscala)
+  - SonarC# 7.9.1.7622 (csharp)
+  - SonarJava 5.9.2.16552 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - Git 1.6.0.1349 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarPHP 2.15.0.4060 (php)
+  - SonarTS 1.8.0.3332 (typescript)
+  - SonarVB 7.9.1.7622 (vbnet)
+Global properties:
+  - sonar.core.id=BF41A1F2-AWhxMImWmhbXoUEC7JIZ
+  - sonar.core.startTime=2019-01-22T10:24:44+0100
+Settings for module: movieList
+  - sonar.host.url=http://localhost:9000
+  - sonar.projectBaseDir=D:\logiciel\AndroidStudioProject\MovieList
+  - sonar.projectKey=movieList
+  - sonar.projectName=movieList
+  - sonar.projectVersion=105
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.3.0.1492
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=C:/Users/Joseph/.jenkins/workspace/MyFirstProject
+  - sonar.verbose=true
+  - sonar.working.directory=D:\logiciel\AndroidStudioProject\MovieList\.scannerwork

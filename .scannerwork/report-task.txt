@@ -1,0 +1,6 @@
+projectKey=movieList
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=movieList
+ceTaskId=AWh08DhZeYJcCQ4US0sw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWh08DhZeYJcCQ4US0sw
